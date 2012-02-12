@@ -1,0 +1,9 @@
+sets:
+    markers:
+        hide: false
+        markers: {}
+        layerprio: 0
+        areas: {}
+        label: Markers
+        minzoom: 0
+icons: {}
